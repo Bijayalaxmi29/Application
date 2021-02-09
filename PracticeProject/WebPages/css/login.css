@@ -1,0 +1,47 @@
+body{
+    background-color:#d3f192;
+    color: #1b7ba6;
+    /* font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold; */
+    /* below is same as the above commented lines */
+    font: bold 15px Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+
+}
+.app-nav{
+    margin-left: 10px;
+}
+
+.main-form{
+    display: block;
+    padding: 10px 5px;
+    background-color: #e2f8b1;
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000;
+    margin: 5px auto;
+    text-align: center;
+}
+.text_1{
+    padding: 2px;
+    border: 1px dashed #000;
+    margin: 10px 50px;
+    background-color: #ffffff;
+}
+input[id]{
+    border: none;
+    width: 99% ;
+}
+
+input#submit{
+    padding: 2px;
+    color: #ffffff;
+    margin: 10px 50px;
+    background-color: blue;
+    font-weight: bold;
+    font-size:15px ;
+    border: none;
+    width: 75% ;
+    height: 30px
+}
