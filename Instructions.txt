@@ -1,0 +1,7 @@
+Git clone using username and password:
+
+-- git clone https://username@github.com/username/repository.git
+-- git clone https://username:password@github.com/username/repository.git
+
+eg: git clone https://Bijayalaxmi29@github.com/Bijayalaxmi29/Application.git
+
