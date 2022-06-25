@@ -1,0 +1,21 @@
+Question #1 : What is Selenium Webdriver?
+Question #2 : What are the different types of exceptions you have faced in Selenium WebDriver?
+Question #3 : What is implicit wait in Selenium WebDriver?
+Question #4 :  What is WebDriver Wait in Selenium WebDriver?
+Question #5 :  What is Fluent Wait in Selenium WebDriver?
+Question #6 :  How to Input Text into a value by Javascript?
+Question #7 :  How to get an attribute value of an element using Selenium WebDriver?
+Question #8 :  How to Send Keyboard keys like press Enter key on text box in Selenium WebDriver?
+Question #9 :   What is the difference between driver.get(“URL”) and driver.navigate().to(“URL”) commands?
+Question #10 :   How to pause a test execution for 5 seconds at a specific point?
+Question #11 : What is Selenium Grid and when do we go for it?
+Question #12 :  What is a Hub in Selenium Grid?
+Question #13 :  What is a Node in Selenium Grid?
+Question #14 : Which WebDriver implementation claims to be the fastest?
+Question #15 :  What are the open source frameworks supported by Selenium WebDriver?
+Question #16 :  What are the different types of navigation commands in Selenium?
+Question #17 :  How can we maximize browser window in Selenium WebDriver?
+Question #18 :  How to delete cookies in Selenium?
+Question #19 :  What is the difference between driver.getWindowHandle() and driver.getWinowHandles() in Selenium WebDriver and their return type?
+Question #20 :  How to handle hidden elements in Selenium WebDriver?
+Question #21 :  How to find more than one web element in the list?

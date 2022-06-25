@@ -1,0 +1,6 @@
+V8 is a Javascript engine available on Google chrome written in C++ -- Called the Node.js
+Javascript is a browser language
+Node.js is running on the server
+
+VS Code shortcuts
+!+tab  -- loads the html skeleton code
